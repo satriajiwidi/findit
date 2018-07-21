@@ -1,0 +1,8 @@
+kamar mandi,kmr mandi,kmr mnd,kmar mandi,toilet,wc,kamar kecil,kmr kcl,kmar kecil,kmr kcil,kmar kcil,closet,jamban,air
+parkir,prkir
+restaurant,restoran,resto,warung makan,kafe,café,tempat makan,tmpt mkn,tmpt mkan,rumah makan,rmh makan,rmh mkn,rmh mkan,warung,wrg,wrung,kedai,food court,kantin
+mushalla,musholla,masjid,gereja,langgar,kelenteng,tempat sholat,tempat ibadah,mushola,pura,sholat,air wudlu,wudhu,mukena,sarung
+bis,bus,angkutan umum,ojek,angkot,gojek,grab,ojol,uber,taksi,becak,sepeda,pesawat,kapal,kereta,kuda,motor,mobil,transportasi
+hotel,kos,losmen,hostel,penginapan,inn,guest house,wisma,motel,resort,vila,villa
+jalan,petunjuk,papan,capai,mencapai,penerangan,plang,rambu
+sampah,kebersihan

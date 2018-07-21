@@ -1,0 +1,8 @@
+jorok,jrok,jork,kotor,ktor,kotr,tidak bersih,tdk bersih,bau,sempit,smpit,kurang luas,krg luas,jelek,jlek,sulit
+mahal,mhl,mhal,mahl,sempit,smpit,tidak ada,tdk ada,kotor,kotr,ktor,kurang luas,krg luas,penuh,tidak nyaman,tidak aman,tdk aman,tdk nyaman,hilang,sulit,tidak ramah
+kotor,jelek,tidak enak,tdk enak,kurang variatif,krg variatif,tidak ramah,tdk rmah,tdk ramah,tdk rmh,lama,mahal,tidak ada,tidak nyaman,tdk nyaman,sempit,kurang nyaman,krg nyaman
+tidak tersedia,bau,sempit,kecil,kotor,tidak ada,tua,lama,sedikit,habis
+tidak ada,macet,mogok,antre,antri,lama
+kotor,sempit,tidak ada,tidak ramah,jelek,jutek,penuh,lama,tidak lengkap,bau,tidak nyaman
+sulit,tidak ada,susah,sempit,kecil,bebatuan,buruk,jelek,terjal,jauh,kurang
+kotor,banyak,jorok

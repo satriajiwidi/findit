@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    {% include 'includes/_head.html' %}
+</head>
+
+<body>
+    <div class="wrapper">
+
+        <!-- <div class="main-panel"> -->
+            {% include 'includes/_navbar.html' %}
+
+            {% include 'includes/_content-criteria.html' %} {% include 'includes/_footer.html' %}
+        <!-- </div> -->
+    </div>
+
+</body>
+
+
+{% include 'includes/_scripts.html' %}
+<script src="{{ url_for('static', filename='js/demo.js') }}"></script>
+
+<script src="{{ url_for('static', filename='js/includes/_criteria.js') }}" type="text/javascript"></script>
+
+</html>

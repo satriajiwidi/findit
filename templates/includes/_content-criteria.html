@@ -1,0 +1,97 @@
+<div class="content">
+    <div class="container-fluid">
+        <!-- <h3 style="margin-top: 0;" id="place"></h3> -->
+        <div class="row">
+            <div class="col-md-5">
+                <div class="card ">
+                    <div class="card-header ">
+                        <h4 class="card-title">Statistik</h4>
+                        <p class="card-category">Informasi Aspek</p>
+                    </div>
+                    <div class="card-body ">
+                        <!-- <div id="chartPreferences" class="ct-chart ct-perfect-fourth"></div> -->
+                        <div class="pie">
+                            <div>
+                                <div class="row">
+                                    <div class="col-md-12 ml-auto pie-chart-div">
+                                        <canvas id="pie-chart" width="3" height="2"></canvas>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card-footer aspek">
+                        <!-- <div class="legend">
+                            <i class="fa fa-circle text-info"></i> <span></span>
+                            <i class="fa fa-circle text-danger"></i> <span></span>
+                            <i class="fa fa-circle text-warning"></i> <span></span>
+                        </div> -->
+                    </div>
+                </div>
+            </div>
+
+            <div class="modal" tabindex="-1" role="dialog" id="myModal">
+                <div class="modal-dialog modal-lg" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title">Modal title</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-7">
+                <div class="card card-tasks">
+                    <div class="card-header ">
+                        <h4 class="card-title">Saran</h4>
+                        <p class="card-category">Beberapa aspek yang perlu diperbaiki</p>
+                    </div>
+                    <div class="card-body">
+                        <div class="table-full-width">
+                            <table class="table saran">
+                                <tbody>
+                                    <tr>
+                                        <td class="saran"></td>
+                                    </tr>
+                                    <tr>
+                                        <td class="saran"></td>
+                                    </tr>
+                                    <tr>
+                                        <td class="saran"></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card card-tasks">
+                    <div class="card-header ">
+                        <h4 class="card-title">Sentiment</h4>
+                        <p class="card-category">10 komentar terakhir</p>
+                    </div>
+                    <div class="card-body ">
+                        <div class="table-full-width">
+                            <table class="table saran">
+                                <tbody class="sentiment">
+                                    
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
